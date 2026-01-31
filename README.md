@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravigaud159&label=Profile%20views&color=0e75b6&style=flat" alt="ravigaud159" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravigaud159" alt="ravigaud159" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://ravi-gaud-portfolio.vercel.app/" alt="ravigaud159" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
