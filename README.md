@@ -1,14 +1,22 @@
-## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Ravi Gaud</h1>
-<h3 align="center">passionate full-stack developer specializing in the MERN stack</h3>
+
+##  <h1 align="center"> Hi 👋, I'm Ravi Gaud</h1>
+
+<h2> Passionate Full-Stack Developer</h2>
+<p>    I’m a Full Stack Developer currently pursuing my MCA, with hands-on experience in building modern, scalable web applications using the <strong>MERN stack</strong> (MongoDB, Express.js, React.js, Node.js). I create responsive and user-friendly interfaces with React & Tailwind CSS, develop secure backend APIs, manage databases with MongoDB and MySQL, and implement authentication using JWT. I focus on writing clean, maintainable code and delivering excellent user experiences.
+</p>
+
+<h3>Tech Stack:</h3>
+<p>      React.js, JavaScript, HTML, CSS, Java, Tailwind CSS, Node.js, Express.js, MongoDB, MySQL, REST APIs, JWT, Git, GitHub, Postman
+</p>
+
 
 <p align="left">
   <a href="https://ravi-gaud-portfolio.vercel.app/" target="_blank">
     <img
       src="https://github.com/user-attachments/assets/7059cd89-c0c9-4c47-b860-45bf97abaf76"
       alt="ravigaud159"
-      width="150"
+      width="100%"
     />
   </a>
 </p>
@@ -24,9 +32,6 @@
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravigaud159&show_icons=true&locale=en&layout=compact" alt="ravigaud159" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravigaud159&show_icons=true&locale=en" alt="ravigaud159" /></p>
 
 
 
@@ -37,11 +42,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
