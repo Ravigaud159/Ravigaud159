@@ -3,7 +3,16 @@
 <h1 align="center">Hi 👋, I'm Ravi Gaud</h1>
 <h3 align="center">passionate full-stack developer specializing in the MERN stack</h3>
 
-<p align="left"> <a href="https://ravi-gaud-portfolio.vercel.app/"> </a> alt="ravigaud159" /> </p>
+<p align="left"> 
+<a href="https://ravi-gaud-portfolio.vercel.app/" target="_blank">
+  <img
+    src="your-image-path.jpg"
+    alt="ravigaud159"
+    width="150"
+  />
+</a>
+
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
